@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<body>
+<style>
+body {
+  background-color: #446F4B;
+  font-family: "noto serif";
+}
+
+h1 {
+  color: #F9EFE2;
+  font-size: 36px;
+  font-type: strong;
+  text-align: center;
+}
+
+h2 {
+  color: #F9EFE2;
+  font-size: 26px;
+  text-align: center;
+}
+
+p {
+  color: #F9EFE2;
+  font-size: 20px;
+  text-align: center;
+}
+</style>
+
+<h1>Systemische Beratung & Training</h1>
+<h2>Dominik Kleinrahm</h2>
+
+<br>
+<br>
+<br>
+
+<p>Diese Seite befindet sich noch im Aufbau!</p><br>
+
+<br>
+
+<p>Sie erreichen den Webmaster unter <br> webmaster [at] dominikkleinrahm.de</p>
+
+</body>
+</html>
